@@ -1,7 +1,7 @@
 #ReadMe file
 
 ##Purpose
-
+Purpose to know more about github
 
 ##Deployment
 
